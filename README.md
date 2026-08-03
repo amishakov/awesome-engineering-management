@@ -543,6 +543,7 @@
 | [Figma](https://www.figma.com/) | Figma brings your teams together to design better products from start to finish. |
 | [Zeplin](https://zeplin.io/) | Deliver on the promise of design |
 | [Excalidraw](https://plus.excalidraw.com/) | Online Whiteboard made simple. Free & Open source. No account is needed |
+| [flow-chart.io](https://flow-chart.io) | AI diagram generator that produces fully editable C4 architecture, BPMN, cloud architecture, and DevOps pipeline diagrams from plain-language prompts. |
 
 ### Metrics
 
